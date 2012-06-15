@@ -1,4 +1,4 @@
-aws-toolkit
+AWS toolkit
 ===========
 
-Collection of tools that make using AWS simpler
+Collection of tools that make using AWS simpler.
